@@ -3,12 +3,12 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Updates And Chats"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
   - title: "Guide"
     url: /markdown/
+
+  - title: "Blog Posts"
+    url: /year-archive/
