@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kavya / Stellar Industries (working title)"
+title                    : "my name / Stellar Industries (working title)"
 title_separator          : "-"
 name                     : &name "hi its me:)"
 description              : &description "template for company site"
