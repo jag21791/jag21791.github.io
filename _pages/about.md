@@ -10,7 +10,7 @@ redirect_from:
 
 Hiii! This is my personal site. Check here for pictures, updates, or anything that could make you smile :) 
 
-This will serve as the template for my company site coming soon! Still waiting on a special someone to help me with the name hehe but im not pressed! 
+This will serve as the template for my company site coming soon!
 
 Always thinking of you <3 hope you're doing well, love you
 
