@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hiii! This is my personal site. Check here for pictures, updates, or anything that could make you smile :)
+Hiii! This is my personal site. Check here for pictures, updates, or to talk :)
 
 The "chat" feature is going to be found by going to the top menu and selecting "Blog Posts", and under the first blog post, or any after that, there will be a comment section where can post comments to chat back and forth! Like youtube comments except waaay less unhinged haha. Ill make more blog posts as "updates" if you wanna check there for what im up to whenever we can talk throughout the day! man this developer stuff is hard work, i need a coke. and a cheeseburger. okie love you bye!!
 
-This will serve as the template for my company site coming soon!
+This also will serve as the template for my company site coming soon! But i might make some changes to the layout
 
 Always thinking of you <3 hope you're doing well, love you
 
