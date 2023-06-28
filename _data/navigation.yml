@@ -1,13 +1,10 @@
 # main links links
 main:
-
-  - title: "Pictures"
-     url: /pictures/
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Updates And Chats"
     url: /year-archive/
     
   - title: "CV"
