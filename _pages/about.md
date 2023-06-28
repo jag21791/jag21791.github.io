@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hiii! This is my personal site. Check here for pictures, updates, or to talk :)
+Hiii! This is my personal site. Check here for pictures, updates, or to talk :) the best part is only you and i have the link so its like our little digital hideaway hehe. Definitely a work in progress but pretty neat!
 
 The "chat" feature is going to be found by going to the top menu and selecting "Blog Posts", at the very bottom there is a comment section where can post comments to chat back and forth! Like youtube comments except waaay less toxic haha. Ill make more blog posts as "updates" if you wanna check there for what im up to if we can't talk throughout the day! 
+
+I also think one of the features is you can see it right from the bottom of the homepage as well! So i guess theres two locations to leave comments but its still a work in progress!
 
 geez louise this developer stuff is hard work, i need a coke. and a cheeseburger. okie love you bye!!
 
