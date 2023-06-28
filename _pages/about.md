@@ -10,7 +10,9 @@ redirect_from:
 
 Hiii! This is my personal site. Check here for pictures, updates, or to talk :)
 
-The "chat" feature is going to be found by going to the top menu and selecting "Blog Posts", and under the first blog post, or any after that, there will be a comment section where can post comments to chat back and forth! Like youtube comments except waaay less unhinged haha. Ill make more blog posts as "updates" if you wanna check there for what im up to whenever we can talk throughout the day! man this developer stuff is hard work, i need a coke. and a cheeseburger. okie love you bye!!
+The "chat" feature is going to be found by going to the top menu and selecting "Blog Posts", at the very bottom there is a comment section where can post comments to chat back and forth! Like youtube comments except waaay less toxic haha. Ill make more blog posts as "updates" if you wanna check there for what im up to if we can't talk throughout the day! 
+
+geez louise this developer stuff is hard work, i need a coke. and a cheeseburger. okie love you bye!!
 
 This also will serve as the template for my company site coming soon! But i might make some changes to the layout
 
