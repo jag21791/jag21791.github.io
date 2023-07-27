@@ -24,6 +24,8 @@ Some positive things to remember if you need a pick me up:
 6. Even if we can't work out together THIS week, we can still MAYBE do couples long distance workouts while im in huntsville and also call if you get a little more freedom. I know it just depends on your parents so, if not, refer to number 5!^^
 7. You make me happy every day and I don't want to be with anyone else for the rest of my life! You are enough for me always and forever <3 
 
+I promise, everything will be okay both at home and with us. The only thing ill ever ask of you beyond loving me is that you trust me when I say that okay?
+
 Lastly,
 
 We are best friends, companions in life, and soulmates. Nothing is going to change that or keep us apart.
@@ -46,4 +48,3 @@ This also will serve as the template for my company site coming soon! But i migh
 Always thinking of you <3 hope you're doing well, love you
 
 # ================================================= 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
