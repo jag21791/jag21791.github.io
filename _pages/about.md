@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Our Own Space 🚀"
+title: "Planet Avni 🚀"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -22,7 +22,9 @@ Some positive things to remember if you need a pick me up:
 4. we can call on your lunch breaks! just lmk ahead of time and ill make myself free
 5. After this next week (starting Aug. 4), Ill be able to come visit you in GB MD WOOT WOOT and we can get thai food and watch airplanes fly over and maybe even snuggle ❤️
 6. Even if we can't work out together THIS week, we can still MAYBE do couples long distance workouts while im in huntsville and also call if you get a little more freedom. I know it just depends on your parents so, if not, refer to number 5!^^
-7. You make me happy every day and I don't want to be with anyone else for the rest of my life! You are enough for me always and forever <3 
+7. You make me happy every day and I don't want to be with anyone else for the rest of my life! You are enough for me always and forever <3
+8. Im thinking of renaming this webpage, but I wanted to keep with the theme of this being our own place where can be with each other! So i was thinking naming it like a planet, but after your name. Obv based on my sick scrabble skills my first thought was "Planet Avni". But if you hate that lemme a different suggestion in the comments! hehe
+
 
 I promise, everything will be okay both at home and with us. The only thing ill ever ask of you beyond loving me is that you trust me when I say that okay?
 
