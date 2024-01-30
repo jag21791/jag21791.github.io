@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Edit: Jan 29, 2024
+
+Im not sure if youve been seeing this site, but ive been writing comments below. Sorry if you havent seen them. I will update more later tonight. I miss you, I wish you would reach out to me. I send you so many messages but i dont think any of them get through. Email, canvas inbox, im afraid to text though in case i get blocked on there too. Please say something. do you miss me? think of me? love me still? i have no idea anymore. I still feel the same, and i hope you do too
+
+Talk soon
+
+Jared
+
+
 Edit: July 27th
 
 Hiii :) 
