@@ -11,7 +11,7 @@ Edit: September 1,2024
 
 I did everything right. we were perfect, and its not right that your parents get to hold your relationship with them hostage when they don't even know me, have never met me, don't understand a thing about our relationship. i know this is gonna sound childish but in this case its true, its not fair. I lifted you up, supported you, i spent every spare second and dime I had to make sure I was the best partner you could ever want, and it was unconditional. i never expected anything in return, except what you always gave me: your love and respect. you were always there for me, you were always by my side and our life was the happiest I will ever be. I'm sorry for the way this whole thing sounds, but I can't even reach you to express how much you mean to me. I am broken. I don't want to do this without you. I can't finish school, can't focus on my job, I can't even finish a meal or get sleep.
 
-I'm sorry Avni. I love you and miss you more than you know, and would give anything just to head your voice one more time. Sweet dreams, mmmmwah x infinity
+I'm sorry Avni. I love you and miss you more than you know, and would give anything just to hear your voice one more time. Sweet dreams, mmmmwah x infinity
 
 Jawed
 
